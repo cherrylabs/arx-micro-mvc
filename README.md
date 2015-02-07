@@ -46,7 +46,7 @@ If your app is more complexe, you should considere to use directly a Laravel Pro
 
 ### Advanced
 
-See ** [the wiki page for more infos](https://github.com/arx/php-mmvc/wiki) **
+See ** [the wiki page for more infos](https://github.com/cherrylabs/arx-micro-mvc/wiki) **
 
 ## Release Notes
 
@@ -61,6 +61,6 @@ Arx Micro MVC is free software distributed under the terms of the MIT license
 
 ## Aditional information
 
-Any questions, feel free to contact me or ask [here](https://github.com/arx/php-mmvc/issues)
+Any questions, feel free to contact me or ask [here](https://github.com/cherrylabs/arx-micro-mvc/issues)
 
-Any issues, please [report here](https://github.com/arx/php-mmvc/issues)
+Any issues, please [report here](https://github.com/cherrylabs/arx-micro-mvc/issues)

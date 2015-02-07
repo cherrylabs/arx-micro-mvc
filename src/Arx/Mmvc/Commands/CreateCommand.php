@@ -1,8 +1,8 @@
 <?php namespace Arx\Mmvc\Commands;
 
-use Arx\Utils\Composer;
-use Arx\Utils\File;
-use Arx\Utils\Utils;
+use Arx\classes\File;
+use Arx\classes\Utils;
+
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
@@ -62,7 +62,7 @@ class CreateCommand extends \Symfony\Component\Console\Command\Command {
         file_put_contents($directory . '/' . 'index.php', $index);
         file_put_contents($directory . '/' . 'bootstrap.php', $bootstrap);
 
-        $output->writeln('<comment>Application ready! Build something amazing.</comment>');
+        $output->writeln('<comment>Application ready! Ready to build something amazing.</comment>');
     }
 
     /**

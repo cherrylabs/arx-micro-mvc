@@ -3,6 +3,6 @@
 <?php
 require __DIR__.'/../vendor/autoload.php';
 //require __DIR__.'/../autoload.php';
-$app = new Symfony\Component\Console\Application('Arx Installer', '4.1');
-$app->add(new Blok\Mmvc\Commands\CreateCommand);
+$app = new Symfony\Component\Console\Application('Arx Micro Installer', '4.1');
+$app->add(new Arx\Mmvc\Commands\CreateCommand);
 $app->run();
