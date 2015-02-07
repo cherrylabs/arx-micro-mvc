@@ -1,0 +1,23 @@
+{
+    "name": "arx/mmvc",
+    "description": "Micro Mvc Package based on Laravel",
+    "type" : "framework",
+    "homepage": "http://www.arx.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Sum",
+            "email": "daniel@cherrypulp.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "arx/core" : "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arx\\Mmvc": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

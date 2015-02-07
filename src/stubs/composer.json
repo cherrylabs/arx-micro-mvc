@@ -1,0 +1,22 @@
+{
+    "name": "arx/mmvc",
+    "description": "Micro Mvc Package based on Laravel",
+    "type" : "framework",
+    "homepage": "http://www.get-blok.com",
+    "license": "MIT",
+    "authors": [
+        {
+
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "arx/core" : "4.2.x",
+        "arx/db" : "4.x",
+        "arx/mail" : "4.x"
+    },
+    "autoload": {
+
+    },
+    "minimum-stability": "stable"
+}
