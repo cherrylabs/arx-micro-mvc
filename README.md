@@ -26,7 +26,7 @@ $ composer require arx/mmvc
 
 # To create a micro mvc project
 
-$ vendor/arx/mmvc/bin/blok new $$where_your_app_path_goes ex: app => will put folder inside app folder $$
+$ vendor/arx/mmvc/bin/arx new $$where_your_app_path_goes ex: app => will put folder inside app folder $$
 
 ```
 
